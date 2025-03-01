@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name           Google Search Dracula Theme
+@namespace      github.com/dracula
+@version        0.0.1
+@description    Official Dracula theme for Google Search (Stylus-compatible)
+@author         Dracula
+@license        MIT
+@homepageURL    https://google.com
+@updateURL      https://raw.githubusercontent.com/awesome/stylus_automatic_update/main/google-search.user.css
+@preprocessor   stylus
+==/UserStyle== */
+
+@-moz-document domain("google.com") {
+
+}
